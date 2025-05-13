@@ -1,0 +1,6 @@
+div{
+    background-color: lightcoral;
+}
+.div-2 > p {
+    background-color: lightseagreen;
+}

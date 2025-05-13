@@ -1,0 +1,20 @@
+.container-custom {
+    background-color: azure;
+    margin: 10px;
+    padding: 20px;
+}
+.col-one{
+    background-color: yellow;
+}
+
+.col-two{
+    background-color: blue;
+}
+
+.col-three{
+    background-color: red;
+}
+
+.col-four{
+    background-color: green;
+}
